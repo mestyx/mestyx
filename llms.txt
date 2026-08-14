@@ -1,0 +1,18 @@
+# Mestryx-dev
+
+> GitHub profile README repository (special repo `<username>/<username>`): the landing banner for the Mestryx GitHub profile. Intentionally tiny — README + banner asset only, no code. Bilingual (French section first, then English), with AI-ism-free copy per the `copy-ai-audit` skill.
+
+## Root
+
+- [README.md](README.md): Profile README — bilingual `#fr` / `#en` sections, badges, links
+- [AGENTS.md](AGENTS.md): Agent guide — conventions (bilingual anchors, no AI tells, shields.io badge rules), build/test notes, do-not-touch rules
+
+## Assets
+
+- [assets/banner-infra.svg](assets/banner-infra.svg): Profile banner — dark slate + teal hub-and-spoke infra motif (matches the portfolio palette)
+
+## External
+
+- [GitHub profile](https://github.com/Mestryx-dev): Live rendering of this README
+- [Portfolio](https://mestryx.dev/): Personal portfolio site (content mirrored in `README.md` bio)
+- [Portfolio repo](https://github.com/Mestryx-dev/portfolio): Source of the profile's copy (`docs/Projet/01-contenu.md` is the copy SSOT)
