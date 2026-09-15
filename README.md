@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Mestryx-dev.png" alt="Mestryx" width="110">
+  <img src="https://github.com/Mestyx-dev.png" alt="Mestyx" width="110">
 
-  # Mestryx · Product & Infra Builder
+  # Mestyx · Product & Infra Builder
 
   **À partir de problématiques métier, je conçois des systèmes clé en main (app + infra) en m'appuyant sur une stack IA et du self-hosting pour garder le contrôle des données et la fiabilité en production.**
 
@@ -11,10 +11,10 @@
 
   [Français](#fr) · [English](#en)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-mestryx.dev-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.mestryx.dev/)
-  [![mestryx.dev](https://img.shields.io/badge/mestryx.dev-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://mestryx.dev/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-mestyx.dev-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.mestyx.dev/)
+  [![mestyx.me](https://img.shields.io/badge/mestyx.dev-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://mestyx.me/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Florian_Astier-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/florian-astier-5611561a2/)
-  [![Email](https://img.shields.io/badge/Email-contact%40Mestryx.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@Mestryx.dev)
+  [![Email](https://img.shields.io/badge/Email-contact%40Mestyx.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@Mestyx.me)
   [![GitHub](https://img.shields.io/badge/GitHub-FlowTech_Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlowTech-Lab)
 </div>
 
@@ -96,9 +96,9 @@ Je pars de besoins métier concrets (associations, PME, industrie) et je conçoi
 
 ## Projets sélectionnés
 
-- [**SaaS-Multisite-Platform**](https://github.com/Mestryx-dev/SaaS-Multisite-Platform) — CMS + commerce multi-marques : admin SaaS, API Hono, storefronts SSR, isolation tenant. Monorepo TypeScript, Apache-2.0, déployé sur Dokploy. [Landing](https://mestryx.dev/)
+- [**SaaS-Multisite-Platform**](https://github.com/Mestyx-dev/SaaS-Multisite-Platform) — CMS + commerce multi-marques : admin SaaS, API Hono, storefronts SSR, isolation tenant. Monorepo TypeScript, Apache-2.0, déployé sur Dokploy. [Landing](https://mestryx.dev/)
 - [**Grenoble Roller**](https://github.com/Grenoble-roller/Grenoble-Roller-Website) — application Rails 8.1 en production pour une association de roller : initiations, événements hebdomadaires, inscriptions, prêts de rollers, boutique et adhésions. 90 membres actifs, 240 inscriptions gérées. [Site](https://grenoble-roller.org/)
-- [**Mestryx-AI**](https://github.com/FlowTech-Lab/FlowTech-AI) — stack IA locale RAG (Ollama, Qdrant, OpenWebUI, MCP) self-hosted en Docker.
+- [**Mestyx-AI**](https://github.com/FlowTech-Lab/FlowTech-AI) — stack IA locale RAG (Ollama, Qdrant, OpenWebUI, MCP) self-hosted en Docker.
 - **Infrastructure M3stryӼ** — homelab Proxmox : 50+ services déployés via Dokploy (hub + VPS), sauvegardes PBS, observabilité Uptime Kuma / Beszel / Wazuh.
 
 ## Infrastructure & self-hosting
@@ -117,7 +117,7 @@ Je pars de besoins métier concrets (associations, PME, industrie) et je conçoi
 - Aujourd'hui : conception et exploitation de systèmes complets pour associations, PME et industrie.
 
 <div align="center">
-  <a href="https://portfolio.mestryx.dev/#contact"><strong>Un projet, une mission ou une question ? Écrivez-moi</strong></a>
+  <a href="https://portfolio.mestyx.dev/#contact"><strong>Un projet, une mission ou une question ? Écrivez-moi</strong></a>
 </div>
 
 ---
@@ -198,9 +198,9 @@ I start from concrete business needs (associations, SMBs, industry) and design t
 
 ## Selected projects
 
-- [**SaaS-Multisite-Platform**](https://github.com/Mestryx-dev/SaaS-Multisite-Platform) — multi-brand CMS + commerce: SaaS admin, Hono API, SSR storefronts, tenant isolation. TypeScript monorepo, Apache-2.0, deployed on Dokploy. [Landing](https://mestryx.dev/)
+- [**SaaS-Multisite-Platform**](https://github.com/Mestyx-dev/SaaS-Multisite-Platform) — multi-brand CMS + commerce: SaaS admin, Hono API, SSR storefronts, tenant isolation. TypeScript monorepo, Apache-2.0, deployed on Dokploy. [Landing](https://mestryx.dev/)
 - [**Grenoble Roller**](https://github.com/Grenoble-roller/Grenoble-Roller-Website) — Rails 8.1 app in production for a roller-skating association: initiations, weekly events, sign-ups, roller rentals, shop and memberships. 90 active members, 240 sign-ups handled. [Site](https://grenoble-roller.org/)
-- [**Mestryx-AI**](https://github.com/FlowTech-Lab/FlowTech-AI) — self-hosted local AI stack with RAG (Ollama, Qdrant, OpenWebUI, MCP), running in Docker.
+- [**Mestyx-AI**](https://github.com/FlowTech-Lab/FlowTech-AI) — self-hosted local AI stack with RAG (Ollama, Qdrant, OpenWebUI, MCP), running in Docker.
 - **Infrastructure M3stryӼ** — Proxmox homelab: 50+ services deployed through Dokploy (hub + VPS), PBS backups, Uptime Kuma / Beszel / Wazuh observability.
 
 ## Infrastructure & self-hosting
@@ -219,7 +219,7 @@ I start from concrete business needs (associations, SMBs, industry) and design t
 - Today: designing and operating complete systems for associations, SMBs and industry.
 
 <div align="center">
-  <a href="https://portfolio.mestryx.dev/#contact"><strong>Working on a project, a mission or a question? Get in touch</strong></a>
+  <a href="https://portfolio.mestyx.dev/#contact"><strong>Working on a project, a mission or a question? Get in touch</strong></a>
   <br><br>
   <sub>Complete systems, self-hosted by default.</sub>
 </div>
