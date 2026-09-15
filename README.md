@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Mestyx-dev.png" alt="Mestyx" width="110">
+  <img src="https://github.com/Mestyx.png" alt="Mestyx" width="110">
 
   # Mestyx · Product & Infra Builder
 
@@ -11,10 +11,10 @@
 
   [Français](#fr) · [English](#en)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-mestyx.dev-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.mestyx.dev/)
-  [![mestyx.me](https://img.shields.io/badge/mestyx.dev-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://mestyx.me/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-mestyx.me-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.mestyx.me/)
+  [![mestyx.me](https://img.shields.io/badge/mestyx.me-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://mestyx.me/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Florian_Astier-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/florian-astier-5611561a2/)
-  [![Email](https://img.shields.io/badge/Email-contact%40Mestyx.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@Mestyx.me)
+  [![Email](https://img.shields.io/badge/Email-contact%40Mestyx.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@Mestyx.me)
   [![GitHub](https://img.shields.io/badge/GitHub-FlowTech_Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlowTech-Lab)
 </div>
 
@@ -117,7 +117,7 @@ Je pars de besoins métier concrets (associations, PME, industrie) et je conçoi
 - Aujourd'hui : conception et exploitation de systèmes complets pour associations, PME et industrie.
 
 <div align="center">
-  <a href="https://portfolio.mestyx.dev/#contact"><strong>Un projet, une mission ou une question ? Écrivez-moi</strong></a>
+  <a href="https://portfolio.mestyx.me/#contact"><strong>Un projet, une mission ou une question ? Écrivez-moi</strong></a>
 </div>
 
 ---
@@ -198,7 +198,7 @@ I start from concrete business needs (associations, SMBs, industry) and design t
 
 ## Selected projects
 
-- [**SaaS-Multisite-Platform**](https://github.com/Mestyx-dev/SaaS-Multisite-Platform) — multi-brand CMS + commerce: SaaS admin, Hono API, SSR storefronts, tenant isolation. TypeScript monorepo, Apache-2.0, deployed on Dokploy. [Landing](https://mestryx.dev/)
+- [**SaaS-Multisite-Platform**](https://github.com/Mestyx/SaaS-Multisite-Platform) — multi-brand CMS + commerce: SaaS admin, Hono API, SSR storefronts, tenant isolation. TypeScript monorepo, Apache-2.0, deployed on Dokploy. [Landing](https://mestryx.dev/)
 - [**Grenoble Roller**](https://github.com/Grenoble-roller/Grenoble-Roller-Website) — Rails 8.1 app in production for a roller-skating association: initiations, weekly events, sign-ups, roller rentals, shop and memberships. 90 active members, 240 sign-ups handled. [Site](https://grenoble-roller.org/)
 - [**Mestyx-AI**](https://github.com/FlowTech-Lab/FlowTech-AI) — self-hosted local AI stack with RAG (Ollama, Qdrant, OpenWebUI, MCP), running in Docker.
 - **Infrastructure M3stryӼ** — Proxmox homelab: 50+ services deployed through Dokploy (hub + VPS), PBS backups, Uptime Kuma / Beszel / Wazuh observability.
@@ -219,7 +219,7 @@ I start from concrete business needs (associations, SMBs, industry) and design t
 - Today: designing and operating complete systems for associations, SMBs and industry.
 
 <div align="center">
-  <a href="https://portfolio.mestyx.dev/#contact"><strong>Working on a project, a mission or a question? Get in touch</strong></a>
+  <a href="https://portfolio.mestyx.me/#contact"><strong>Working on a project, a mission or a question? Get in touch</strong></a>
   <br><br>
   <sub>Complete systems, self-hosted by default.</sub>
 </div>
