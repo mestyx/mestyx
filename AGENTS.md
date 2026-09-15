@@ -1,4 +1,4 @@
-# Mestryx-dev — GitHub profile README repo
+# Mestyx-dev — GitHub profile README repo
 
 Special repository: `<username>/<username>` renders as the GitHub profile page banner. This repo is intentionally tiny — its only content is the profile README and its assets.
 
@@ -12,7 +12,7 @@ Special repository: `<username>/<username>` renders as the GitHub profile page b
 
 ## Build / test
 
-No build. Validation: render at `https://github.com/Mestryx-dev`, grep README for banned AI tells, spot-check badge SVG responses (icon embedded = `viewBox="0 0 24 24"` in the base64 data URI).
+No build. Validation: render at `https://github.com/Mestyx`, grep README for banned AI tells, spot-check badge SVG responses (icon embedded = `viewBox="0 0 24 24"` in the base64 data URI).
 
 ## Do-not-touch
 
